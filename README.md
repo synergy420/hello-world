@@ -1,4 +1,12 @@
 # hello-world
-complete noob lol
 
-Totaly new to programming, wish i'd like to learn more!
+#!bin/bash
+
+R=1
+O=2
+B=3
+
+if $R = 1
+  then echo "1=1"
+  else echo "false"
+fi
